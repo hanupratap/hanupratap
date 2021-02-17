@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on AWS
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: hanupratap1999@gmail.com
+- 😄 Pronouns: He/Him
+
 <!--
 **hanupratap/hanupratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
