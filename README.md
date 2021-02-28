@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Jetpack Compose
 - 👯 I’m looking to collaborate on AWS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: hanupratap1999@gmail.com
