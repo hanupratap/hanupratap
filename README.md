@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on AWS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: hanupratap1999@gmail.com
