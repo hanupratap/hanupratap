@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning new Design Architectures
+- 🌱 I’m currently learning new Architectures
 - 👯 I’m looking to collaborate on AWS
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: hanupratap1999@gmail.com
