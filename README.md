@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning new Architectures
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: hanupratap1999@gmail.com
-- 😄 Pronouns: He/Him
 
 <!--
 **hanupratap/hanupratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
