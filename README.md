@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning new Architectures
+- 🌱 Always learning new Architectures
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: hanupratap1999@gmail.com
 
