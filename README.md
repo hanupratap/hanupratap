@@ -1,20 +1,14 @@
-### Hi there 👋
+> *"The combination of some data and an aching desire for an answer does not ensure that a reasonable answer can be extracted from a given body of data." - John Tukey*
+# Hello, I'm Hanupratap 👋
+#### Quantitative Research | Data Science | Mobile Development 
 
-- 🌱 Always learning new Architectures
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: hanupratap1999@gmail.com
+Quantitative Developer exploring the intersection of data, finance, and software. I work on algorithmic trading strategies and statistical analysis, while building mobile and web applications on the side.
 
-<!--
-**hanupratap/hanupratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Professional Focus
+- **Quantitative Research:** Statistical modeling, time series analysis
+- **Languages & Tools:** Python (NumPy, Pandas, SciPy), C++, SQL
+- **Machine Learning:** PyTorch, scikit-learn
+- **Financial Analysis:** factor modeling, portfolio optimization
+- **Developmenrt:** Kotlin, Android SDK, Git, Javascript, Docker, React, Node.js
+- **Cloud:** AWS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
