@@ -5,10 +5,9 @@
 Exploring the intersection of data, finance, and software. I work on algorithmic trading strategies and statistical analysis, while building mobile and web applications on the side.
 
 ## 🔬 Professional Focus
-- **Quantitative Research:** Statistical modeling, time series analysis
+- **Quant Finance:** factor modeling, portfolio optimization, Statistical modeling, time series analysis
+- **Data Science:** PyTorch, scikit-learn
 - **Languages & Tools:** Python (NumPy, Pandas, SciPy), C++, SQL
-- **Machine Learning:** PyTorch, scikit-learn
-- **Financial Analysis:** factor modeling, portfolio optimization
-- **Developmenrt:** Kotlin, Android SDK, Git, Javascript, Docker, React, Node.js
+- **Development:** Kotlin, Android SDK, Git, Javascript, Docker, React, Node.js
 - **Cloud:** AWS
 
