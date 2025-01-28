@@ -2,7 +2,7 @@
 # Hello, I'm Hanupratap 👋
 #### Quantitative Research | Data Science | Mobile Development 
 
-Quantitative Developer exploring the intersection of data, finance, and software. I work on algorithmic trading strategies and statistical analysis, while building mobile and web applications on the side.
+Exploring the intersection of data, finance, and software. I work on algorithmic trading strategies and statistical analysis, while building mobile and web applications on the side.
 
 ## 🔬 Professional Focus
 - **Quantitative Research:** Statistical modeling, time series analysis
