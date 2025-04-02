@@ -4,7 +4,7 @@
 
 Exploring the intersection of data, finance, and software. I work on algorithmic trading strategies and statistical analysis, while building mobile and web applications on the side.
 
-## 🔬 Professional Focus
+## Focus
 - **Quant Finance:** factor modeling, portfolio optimization, Statistical modeling, time series analysis
 - **Data Science:** PyTorch, scikit-learn
 - **Languages & Tools:** Python (NumPy, Pandas, SciPy), C++, SQL
